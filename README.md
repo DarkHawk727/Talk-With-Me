@@ -36,5 +36,10 @@ We saw the capabilities of GPT-3 in the news and wanted to leverage its power fo
 * Expand breadth of issues the therapist can handle
 * Improve training set
 
+# 🖼 Gallery
+![sc1](https://user-images.githubusercontent.com/47152801/121809526-19983e80-cc2b-11eb-89a5-374a21beafcc.jpg)
+![sc2](https://user-images.githubusercontent.com/47152801/121809531-1ac96b80-cc2b-11eb-9fbb-fb359e3bd09e.jpg)
+![sc3](https://user-images.githubusercontent.com/47152801/121809532-1bfa9880-cc2b-11eb-9bb5-1f6309b415bd.jpg)
+
 # 🙇‍♂️ Acknowledgements
 We want to thank everyone at MasseyHacks VII for giving us this opportunity, OpenAI for the amazing GPT-3 and finally, Google for developing Flutter). We would also like to Dhruv Baronia for the OpenAI GPT-3 API.
